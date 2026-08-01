@@ -1,6 +1,4 @@
-
-
-module full_adder_tb;
+module full_adder_tb;
 
 reg A;
 reg B;
