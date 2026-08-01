@@ -42,7 +42,7 @@ Carry = (A & B) | (B & Cin) | (A & Cin)
 Compile:
 
 ```
-iverilog full_adder.v full_adder_tb.v
+verilog full_adder.v full_adder_tb.v
 ```
 
 Run:
